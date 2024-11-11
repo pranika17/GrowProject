@@ -1,0 +1,45 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-2675052e5229cb88.js",
+      "static/chunks/fd9d1056-8fef90fb5a0b2194.js",
+      "static/chunks/117-4140e3c601b33f38.js",
+      "static/chunks/main-app-6dd2bc968013a983.js",
+      "static/chunks/app/_not-found/page-221ef7203edcd7a2.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-2675052e5229cb88.js",
+      "static/chunks/fd9d1056-8fef90fb5a0b2194.js",
+      "static/chunks/117-4140e3c601b33f38.js",
+      "static/chunks/main-app-6dd2bc968013a983.js",
+      "static/css/ef6fa9a96794a83d.css",
+      "static/chunks/app/layout-2ba0adf773d3573f.js"
+    ],
+    "/dashboaard/[id]/page": [
+      "static/chunks/webpack-2675052e5229cb88.js",
+      "static/chunks/fd9d1056-8fef90fb5a0b2194.js",
+      "static/chunks/117-4140e3c601b33f38.js",
+      "static/chunks/main-app-6dd2bc968013a983.js",
+      "static/chunks/496-087bda75df010bbb.js",
+      "static/chunks/7-2ca37489e5a871bc.js",
+      "static/chunks/app/dashboaard/[id]/page-92195d8474803c91.js"
+    ],
+    "/dashboaard/page": [
+      "static/chunks/webpack-2675052e5229cb88.js",
+      "static/chunks/fd9d1056-8fef90fb5a0b2194.js",
+      "static/chunks/117-4140e3c601b33f38.js",
+      "static/chunks/main-app-6dd2bc968013a983.js",
+      "static/chunks/496-087bda75df010bbb.js",
+      "static/chunks/919-cd39a3efb6153bac.js",
+      "static/chunks/app/dashboaard/page-8e7d1a7a5a252de5.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-2675052e5229cb88.js",
+      "static/chunks/fd9d1056-8fef90fb5a0b2194.js",
+      "static/chunks/117-4140e3c601b33f38.js",
+      "static/chunks/main-app-6dd2bc968013a983.js",
+      "static/chunks/496-087bda75df010bbb.js",
+      "static/chunks/app/page-8e5323bf0e6c39df.js"
+    ]
+  }
+}
